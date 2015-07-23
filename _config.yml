@@ -7,7 +7,8 @@ baseurl:     ""
 url:         "http://presequences.com"
 
 # Google analytics
-google_analytics: UA-53431135-1
+google_analytics: UA-62182426-2
+
 
 # Optional features
 animated:           false
